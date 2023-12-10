@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m an informatics student at Universitas Sebelas Maret<br>🤖 Robotik UNS (KRSRI) 2023 <br>💻 I’m currently learning backend and cloud<br>⚡ I like to learn new things especially technology
+🔭 I’m an informatics student at Universitas Sebelas Maret<br>🤖 Robotik UNS (KRSRI) 2023 <br>💻 I’m currently learning backend, cloud, and cyber securiy<br>⚡ I like to learn new things especially technology
 
 
 ## 🌐 Socials:
